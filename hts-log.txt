@@ -1,0 +1,28 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 10 Jul 2023 09:35:38 at https://www.tatvasoft.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.tatvasoft.co.uk/ -O1 "C:\Users\mhdfa\Desktop\ITSolution" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:36:03	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.tatvasoft.co.uk/)
+09:38:45	Error: 	"Not Found" (404) at link https://www.tatvasoft.co.uk/ms-icon-144x144.png/ (from https://www.tatvasoft.co.uk/privacy-statement/)
+09:39:30	Error: 	"Not Found" (404) at link https://www.tatvasoft.co.uk/public/images/hiring_models_banner.png/ (from https://www.tatvasoft.co.uk/technology/xamarin-applications/)
+09:39:43	Error: 	"Not Found" (404) at link https://www.tatvasoft.co.uk/public/images/banner-image/banner-retail.jpg/ (from https://www.tatvasoft.co.uk/industries/ecommerce-software-solutions/)
+09:40:01	Error: 	"Unauthorized" (401) at link https://www.tatvasoft.co.uk/blog/wp-json/wp/v2/pages/38 (from https://www.tatvasoft.co.uk/blog/)
+09:40:14	Error: 	"Unauthorized" (401) at link https://www.tatvasoft.co.uk/blog/wp-json/wp/v2/categories/15 (from https://www.tatvasoft.co.uk/blog/category/software-outsourcing/)
+09:40:15	Error: 	"Unauthorized" (401) at link https://www.tatvasoft.co.uk/blog/wp-json/wp/v2/posts/736 (from https://www.tatvasoft.co.uk/blog/when-and-why-to-consider-hiring-a-software-outsourcing-company/)
+09:40:15	Warning: 	Moved Permanently for https://www.tatvasoft.co.uk/blog/?p=736
+09:40:15	Warning: 	File has moved from https://www.tatvasoft.co.uk/blog/?p=736 to https://www.tatvasoft.co.uk/blog/when-and-why-to-consider-hiring-a-software-outsourcing-company/
+09:40:15	Error: 	"Not Found" (404) at link https://www.tatvasoft.co.uk/403.shtml/ (from https://www.tatvasoft.co.uk/blog/when-and-why-to-consider-hiring-a-software-outsourcing-company/)
+09:40:15	Error: 	"Unauthorized" (401) at link https://www.tatvasoft.co.uk/blog/wp-json/wp/v2/categories/10 (from https://www.tatvasoft.co.uk/blog/category/software-development/)
+09:40:15	Error: 	"Unauthorized" (401) at link https://www.tatvasoft.co.uk/blog/wp-json/wp/v2/posts/741 (from https://www.tatvasoft.co.uk/blog/why-to-prefer-a-cmmi-certified-software-development-company/)
+09:40:15	Warning: 	Moved Permanently for https://www.tatvasoft.co.uk/blog/?p=741
+09:40:15	Warning: 	File has moved from https://www.tatvasoft.co.uk/blog/?p=741 to https://www.tatvasoft.co.uk/blog/why-to-prefer-a-cmmi-certified-software-development-company/
+10:24:32	Warning: 	Retry after error -4 (Connect Error) at link https://www.tatvasoft.co.uk/blog/page/2146/ (from https://www.tatvasoft.co.uk/blog/page/2145/)
+10:25:04	Warning: 	Retry after error -4 (Connect Error) at link https://www.tatvasoft.co.uk/blog/page/2146/ (from https://www.tatvasoft.co.uk/blog/page/2145/)
+10:25:07	Error: 	"Connect Error" (-4) after 2 retries at link https://www.tatvasoft.co.uk/blog/page/2146/ (from https://www.tatvasoft.co.uk/blog/page/2145/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 minutes 29 seconds : 2930 links scanned, 2914 files written (169290175 bytes overall) [62509322 bytes received at 21053 bytes/sec], 169388487 bytes transferred using HTTP compression in 2923 files, ratio 36%, 53.2 requests per connection
+(11 errors, 6 warnings, 0 messages)
